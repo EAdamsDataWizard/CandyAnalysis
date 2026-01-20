@@ -8,7 +8,6 @@ A functional ELT (Extract, Load, Transform) project demonstrating data optimizat
 ![Candy Dashboard Demo](CandyPreview.gif)
 
 ## 🚀 Links
-- **GitHub Repository:** [LINK]
 - **Project Showcase:** [[LINK](https://app.powerbi.com/view?r=eyJrIjoiMTUwODc5NTItNDUyNi00ZTVmLWE0YzAtNDFmMzgyOGNkYmVhIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)]
 
 ## ⚡ Project Highlights
