@@ -5,7 +5,7 @@ markdown
 A functional ELT (Extract, Load, Transform) project demonstrating data optimization and Power BI dashboarding.
 
 ## 📊 Dashboard Preview
-![Candy Dashboard Demo](candy_demo.gif)
+![Candy Dashboard Demo](candyPreview.gif)
 
 ## 🚀 Links
 - **GitHub Repository:** [LINK]
